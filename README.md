@@ -1,1 +1,2 @@
-# exercise-02
+# Exercise 02 - Semantic HTML
+
