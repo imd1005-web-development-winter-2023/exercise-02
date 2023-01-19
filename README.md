@@ -15,4 +15,4 @@ Welcome to exercise 02 - all about semantic tags and a bit more structured conte
 
 ## Final
 
-![This is an image](/images/finished.png)
+![This is an image of the finished product](/images/finished.png)
